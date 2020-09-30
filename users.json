@@ -1,0 +1,17 @@
+[
+   {
+      "id": 1,
+      "name": "Chloe Sullivan",
+      "email": "chloe@torch.com"
+   },
+   {
+      "id": 2,
+      "name": "Clark Kent",
+      "email": "clark@smallville.com"
+   },
+   {
+      "id": 3,
+      "name": "Lana Lang",
+      "email": "lana@talon.com"
+   }
+]
